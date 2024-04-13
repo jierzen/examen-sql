@@ -1,4 +1,6 @@
 # Examen - Módulo SQL 🚀
+[![Ver Video](https://es.wikipedia.org/wiki/PostgreSQL#/media/Archivo:Postgresql_elephant.svg)](https://youtu.be/-xMyWyte0jg)
+
 ## Set de Datos 📊
 
 ```sql
