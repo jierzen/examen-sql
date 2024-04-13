@@ -1,7 +1,3 @@
-# Examen - Módulo SQL 🚀
-## Set de Datos 📊
-
-```sql
 psql -U postgres
 CREATE DATABASE examen_sql;
 \c examen_sql;
@@ -176,7 +172,3 @@ INSERT INTO USUARIOS(id,nombre,edad,email) VALUES
 --prueba 2
 INSERT INTO USUARIOS(id,nombre,edad,email) VALUES 
 (7,'Esteban',31,'jose15@gmail.com');
-```
-
-## Desarrollador 👨‍💻
-Este examen fue desarrollado por: `Jorge Espinoza Ramirez`
